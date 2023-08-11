@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Majestique3
+- 👋 Hi, I’m @Majestiqu3
 - 👀 I’m interested in programming AI
 - 🌱 I’m currently learning Coding
